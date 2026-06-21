@@ -1,0 +1,5 @@
+Pillow
+paddlepaddle
+paddleocr
+langdetect
+argostranslate
